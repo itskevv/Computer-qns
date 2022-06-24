@@ -1,0 +1,32 @@
+body{
+	background-color: teal;
+	margin: 10px;
+}
+.every{
+	border: 1px solid greenyellow;
+	text-align: center;
+}
+.message h1{
+	text-align: center;
+	color: black;
+}
+input{
+	padding: 5px;
+}
+button{
+	background: orangered;
+	border: 1px solid orangered;
+	color: whitesmoke;
+	font-weight: bolder;
+	width: 300px;
+	border-radius: 5px;
+	padding: 6px;
+}
+select{
+	width: 300px;
+	padding: 5px;
+}
+.space{
+	width: 289px;
+}
+
